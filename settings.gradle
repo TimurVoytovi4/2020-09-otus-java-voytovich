@@ -1,1 +1,2 @@
 rootProject.name = '2020-09-otus-java-voytovich'
+include 'hw01-gradle'
